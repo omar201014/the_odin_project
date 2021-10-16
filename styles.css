@@ -1,0 +1,43 @@
+.Headings{
+    font-family: Cambria, Cochin, verdana, 'Times New Roman', serif;
+    color: rgb(20, 2, 71);
+    text-align: center;
+    align-items: center;
+    font-size: 45px;
+   }
+
+   #main-line{
+       font-size: 70px;
+       text-align: center;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px
+        }
+li{
+    text-align: center;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+}
+
+h1,h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(160, 160, 160);
+}
+.paragraph{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 18px;
+text-align: initial;
+}
+
+#return{
+    text-align: right;
+}
