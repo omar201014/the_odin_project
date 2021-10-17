@@ -29,7 +29,7 @@ li{
 h1,h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgba(196, 23, 0, 0.932);
     background-color: rgb(160, 160, 160);
 }
 .paragraph{
