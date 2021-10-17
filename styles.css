@@ -35,9 +35,9 @@ h1,h2{
 .paragraph{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: 18px;
-text-align: initial;
+text-align: center;
 }
 
 #return{
-    text-align: right;
+    text-align: center;
 }
