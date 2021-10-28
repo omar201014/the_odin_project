@@ -1,9 +1,13 @@
 *{
+    width: 80%;
     padding: 10px;
-    margin-left: 120px;
-    margin-right: 120px;
+    margin: auto;
+}   
+.main-page-content{
+    border-width: 5px;
+    border-style: solid;
+    border-color: red gray rgba(165, 0, 0, 0.877) rgb(119, 119, 119);
 }
-
 .Headings{
     font-family: Cambria, Cochin, verdana, 'Times New Roman', serif;
     color: rgb(20, 2, 71);
