@@ -2,8 +2,14 @@
     width: 80%;
     padding: 10px;
     margin: auto;
+    background-image: url(Images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }   
 .main-page-content{
+    background-color: rgba(193, 231, 231, 0.521);
     display: flex;
     flex-flow: column;
     padding: 3px;
