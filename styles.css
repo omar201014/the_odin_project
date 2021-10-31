@@ -13,32 +13,30 @@
     }
 .Headings{
     font-family: Cambria, Cochin, verdana, 'Times New Roman', serif;
+    padding: 2px;
     color: rgb(20, 2, 71);
     text-align: center;
     align-items: center;
     font-size: 45px;
    }
 #main-line{
+    display: flex;
+    flex-flow: column;
     font-size: 70px;
     background-color: #c0c0c0;
+    width: auto;
+    margin: 0px 10px 0px 10px;
     border-left: 7px solid rgba(196, 23, 0, 0.932);
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
 figure{
-    border: #c0c0c0;
-    border-radius: 2px;       
-    border-width: thin;
-    border-style: solid;
     display: flex;
     flex-flow: column;
     padding: 1px;
-    max-width: 70%;
+    width: 80%;
     margin: auto;
    }
-img{
-    max-width: 1800px;
-    max-height: 920px;
-    }
+
 figcaption{
     background-color: #222;
     color: #fff;
@@ -59,14 +57,21 @@ h1,h2{
     background-color: rgb(160, 158, 158);
     border-left: 3px solid rgba(196, 23, 0, 0.932);
     }
-#return{
-    text-align: center;
+    #return{
+        text-align: right;
     }
-.main-page-content ul a li{
+    .main-page-content ul a li{
     font-size: 35px;
+    list-style: none;
     text-align: center;
     text-decoration: underline;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
     color: rgb(241, 177, 0);
     background-color: rgb(218, 2, 45);
+    border: 2px dotted rgb(241, 177, 0);
     }
+    .return-back{
+        display: inline-flex;
+        margin-left: 70px;
+        padding-left: 35px;
+        }
