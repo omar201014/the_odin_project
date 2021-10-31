@@ -4,9 +4,9 @@
     margin: auto;
     background-image: url(Images/background.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-attachment: fixed;
-    background-position: center;
+    background-position: top;
 }   
 .main-page-content{
     background-color: rgba(193, 231, 231, 0.521);
