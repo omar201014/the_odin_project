@@ -17,6 +17,7 @@
     border-width: 5px;
     border-style: solid;
     border-color: red gray rgba(165, 0, 0, 0.877) rgb(119, 119, 119);
+    box-shadow: 0px 0px 15px rgb(54, 54, 54);
     }
 .Headings{
     font-family: Cambria, Cochin, verdana, 'Times New Roman', serif;
@@ -40,8 +41,6 @@
 figure{
     display: flex;
     flex-flow: column;
-    padding: 1px;
-    width: 80%;
     margin: auto;
    }
 
@@ -78,6 +77,11 @@ h1,h2{
     background-color: rgb(218, 2, 45);
     border: 2px dotted rgb(241, 177, 0);
     margin-bottom: 70px;
+    }
+    .main-page-content ul a li:hover{
+        color: rgb(218, 2, 45);
+        background-color: rgb(241, 177, 0);
+        border: 2px dotted rgb(218, 2, 45);
     }
     .return-back{
         display: inline-flex;
