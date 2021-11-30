@@ -30,12 +30,13 @@
 #main-line{
     display: flex;
     flex-flow: column;
-    font-size: 70px;
-    background-color: #c0c0c0;
+    font-size: 95px;
+    background-color: #c0c0c01c;
     width: auto;
     margin: 0px 10px 0px 10px;
     border-left: 7px solid rgba(196, 23, 0, 0.932);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px #aaa;
     margin-bottom: 150px;
     }
 figure{
